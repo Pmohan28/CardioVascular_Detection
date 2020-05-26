@@ -58,7 +58,7 @@ class datainput():
             self.imputer = KNNImputer()
             self.new_array = self.imputer.fit_transform(data)
             self.new_data = pd.DataFrame(data = self.new_array, columns= self.data.columns)
-            # data.fillna(0,inplace=True)
+            # data.fillna(0,inplace=Tru)
             print(data.isna().sum())
             self.logger.log(self.file_object,'Ending the imputation successfully')
             return self.new_data
