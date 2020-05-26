@@ -1,0 +1,91 @@
+2020-05-19/23:45:19		Entering the model training method
+2020-05-19/23:45:19		Starting the split
+2020-05-19/23:45:19		Exception occured
+2020-05-19/23:45:53		Entering the model training method
+2020-05-19/23:45:53		Starting the split
+2020-05-19/23:45:53		Exception occured
+2020-05-19/23:54:31		Entering the model training method
+2020-05-19/23:54:31		Starting the split
+2020-05-19/23:54:31		Exception occured
+2020-05-19/23:55:31		Entering the model training method
+2020-05-19/23:55:31		Starting the split
+2020-05-19/23:55:31		Exception occured
+2020-05-19/23:56:50		Entering the model training method
+2020-05-19/23:56:50		Starting the split
+2020-05-19/23:56:50		Exception occured
+2020-05-20/00:00:46		Entering the model training method
+2020-05-20/00:00:46		Starting the split
+2020-05-20/00:00:46		Exception occured
+2020-05-20/00:04:37		Entering the model training method
+2020-05-20/00:04:37		Starting the split
+2020-05-20/00:06:17		Entering the model training method
+2020-05-20/00:06:17		Starting the split
+2020-05-20/00:06:17		Exception occured
+2020-05-20/00:06:33		Entering the model training method
+2020-05-20/00:06:33		Starting the split
+2020-05-20/00:10:02		Entering the model training method
+2020-05-20/00:10:02		Starting the split
+2020-05-20/00:12:36		Entering the model training method
+2020-05-20/00:12:36		Starting the split
+2020-05-20/00:14:15		Entering the model training method
+2020-05-20/00:14:15		Starting the split
+2020-05-20/00:15:40		Entering the model training method
+2020-05-20/00:15:40		Starting the split
+2020-05-20/00:16:54		Entering the model training method
+2020-05-20/00:16:54		Starting the split
+2020-05-22/00:04:17		Entering the model training method
+2020-05-22/00:04:17		Starting the split
+2020-05-22/00:04:17		Exception in the model finder
+2020-05-22/00:04:51		Entering the model training method
+2020-05-22/00:04:51		Starting the split
+2020-05-22/00:04:51		Exception in the model finder
+2020-05-22/00:05:34		Entering the model training method
+2020-05-22/00:05:34		Starting the split
+2020-05-22/00:05:34		Exception in the model finder
+2020-05-22/00:07:46		Entering the model training method
+2020-05-22/00:07:46		Starting the split
+2020-05-22/00:07:46		Exception in the model finder
+2020-05-22/00:33:10		Entering the model training method
+2020-05-22/00:33:10		Starting the split
+2020-05-22/00:33:10		Exception in the model finder
+2020-05-24/00:03:29		Entering the model training method
+2020-05-24/00:03:29		Starting the split
+2020-05-24/00:03:32		Exception in the model finder
+2020-05-24/00:03:54		Entering the model training method
+2020-05-24/00:03:54		Starting the split
+2020-05-24/00:03:54		Exception in the model finder
+2020-05-24/00:05:30		Entering the model training method
+2020-05-24/00:05:30		Starting the split
+2020-05-24/00:05:30		Exception in the model finder
+2020-05-24/00:09:29		Entering the model training method
+2020-05-24/00:09:29		Starting the split
+2020-05-24/00:09:29		Exception in the model finder
+2020-05-24/00:09:47		Entering the model training method
+2020-05-24/00:09:47		Starting the split
+2020-05-24/00:09:47		Exception in the model finder
+2020-05-24/00:12:49		Entering the model training method
+2020-05-24/00:12:49		Starting the split
+2020-05-24/00:12:49		Exception in the model finder
+2020-05-24/00:13:02		Entering the model training method
+2020-05-24/00:13:02		Starting the split
+2020-05-24/00:13:03		Exception in the model finder
+2020-05-24/00:17:05		Entering the model training method
+2020-05-24/00:17:05		Starting the split
+2020-05-24/00:17:06		Exception in the model finder
+2020-05-24/00:18:47		Entering the model training method
+2020-05-24/00:18:47		Starting the split
+2020-05-24/00:19:22		Entering the model training method
+2020-05-24/00:19:22		Starting the split
+2020-05-24/00:19:23		Exception in the model finder
+2020-05-24/00:20:40		Entering the model training method
+2020-05-24/00:20:40		Starting the split
+2020-05-24/00:20:41		Exception in the model finder
+2020-05-24/00:24:42		Entering the model training method
+2020-05-24/00:24:42		Starting the split
+2020-05-24/12:19:53		Entering the model training method
+2020-05-24/12:19:53		Starting the split
+2020-05-24/12:19:53		Exception in the model finder
+2020-05-24/12:20:47		Entering the model training method
+2020-05-24/12:20:47		Starting the split
+2020-05-24/12:21:30		Entering the model training method
+2020-05-24/12:21:30		Starting the split

@@ -1,0 +1,294 @@
+2020-05-18/10:37:02		Entering the data input class
+2020-05-18/10:37:02		Data Loaded successfully
+2020-05-18/10:47:49		Starting preprocessing
+2020-05-18/10:47:49		Exxeption occur
+2020-05-18/10:48:44		Starting preprocessing
+2020-05-18/10:48:44		Exxeption occur
+2020-05-18/10:48:45		Starting preprocessing
+2020-05-18/10:48:45		Exxeption occur
+2020-05-18/10:49:40		Starting preprocessing
+2020-05-18/10:49:40		Exxeption occur
+2020-05-18/10:57:04		Starting preprocessing
+2020-05-18/10:57:04		Exxeption occur
+2020-05-18/10:57:37		Starting preprocessing
+2020-05-18/10:57:37		Exxeption occur
+2020-05-18/10:59:59		Starting preprocessing
+2020-05-18/10:59:59		Exxeption occur
+2020-05-18/11:00:56		Starting preprocessing
+2020-05-18/11:00:56		Exxeption occur
+2020-05-18/11:01:25		Starting preprocessing
+2020-05-18/11:01:25		Exxeption occur
+2020-05-18/11:01:51		Starting preprocessing
+2020-05-18/11:01:51		Exxeption occur
+2020-05-18/11:05:06		Entering the data input class
+2020-05-18/11:05:06		Data Loaded successfully
+2020-05-18/11:05:25		Entering the data input class
+2020-05-18/11:05:25		Data Loaded successfully
+2020-05-18/11:05:53		Entering the data input class
+2020-05-18/11:05:53		Data Loaded successfully
+2020-05-18/11:06:11		Entering the data input class
+2020-05-18/11:06:11		Data Loaded successfully
+2020-05-18/11:06:25		Entering the data input class
+2020-05-18/11:06:25		Data Loaded successfully
+2020-05-18/11:06:42		Entering the data input class
+2020-05-18/11:06:42		Data Loaded successfully
+2020-05-18/11:06:53		Entering the data input class
+2020-05-18/11:06:53		Data Loaded successfully
+2020-05-18/11:06:53		Entering the data input class
+2020-05-18/11:06:53		Data Loaded successfully
+2020-05-18/11:07:35		Entering the data input class
+2020-05-18/11:07:35		Data Loaded successfully
+2020-05-18/11:07:35		Starting preprocessing
+2020-05-18/11:08:10		Entering the data input class
+2020-05-18/11:08:10		Data Loaded successfully
+2020-05-18/11:08:10		Starting preprocessing
+2020-05-18/11:08:30		Entering the data input class
+2020-05-18/11:08:30		Data Loaded successfully
+2020-05-18/11:08:30		Starting preprocessing
+2020-05-18/11:09:18		Entering the data input class
+2020-05-18/11:09:18		Data Loaded successfully
+2020-05-18/11:09:18		Starting preprocessing
+2020-05-18/11:14:27		Entering the data input class
+2020-05-18/11:14:27		Data Loaded successfully
+2020-05-18/11:14:27		Starting preprocessing
+2020-05-18/11:14:27		Exxeption occur
+2020-05-18/11:14:59		Entering the data input class
+2020-05-18/11:14:59		Data Loaded successfully
+2020-05-18/11:14:59		Starting preprocessing
+2020-05-18/11:14:59		Exxeption occur
+2020-05-18/11:15:29		Entering the data input class
+2020-05-18/11:15:29		Data Loaded successfully
+2020-05-18/11:15:29		Starting preprocessing
+2020-05-18/11:15:29		Exxeption occur
+2020-05-18/11:16:03		Entering the data input class
+2020-05-18/11:16:04		Data Loaded successfully
+2020-05-18/11:16:04		Starting preprocessing
+2020-05-18/11:16:04		Exxeption occur
+2020-05-18/11:18:08		Entering the data input class
+2020-05-18/11:18:08		Data Loaded successfully
+2020-05-18/11:18:08		Starting preprocessing
+2020-05-18/11:18:08		Exxeption occur
+2020-05-18/11:18:34		Entering the data input class
+2020-05-18/11:18:34		Data Loaded successfully
+2020-05-18/11:18:34		Starting preprocessing
+2020-05-18/11:18:55		Entering the data input class
+2020-05-18/11:18:55		Data Loaded successfully
+2020-05-18/11:18:55		Starting preprocessing
+2020-05-19/22:05:58		Entering the data input class
+2020-05-19/22:05:58		Data Loaded successfully
+2020-05-19/22:05:58		Starting preprocessing
+2020-05-19/22:05:58		Exception occured
+2020-05-19/22:06:14		Entering the data input class
+2020-05-19/22:06:14		Data Loaded successfully
+2020-05-19/22:06:14		Starting preprocessing
+2020-05-19/22:06:14		Exception occured
+2020-05-19/22:06:31		Entering the data input class
+2020-05-19/22:06:31		Data Loaded successfully
+2020-05-19/22:06:31		Starting preprocessing
+2020-05-19/22:06:31		Exception occured
+2020-05-19/22:06:48		Entering the data input class
+2020-05-19/22:06:48		Data Loaded successfully
+2020-05-19/22:06:48		Starting preprocessing
+2020-05-19/22:06:48		Exception occured
+2020-05-19/22:07:07		Entering the data input class
+2020-05-19/22:07:07		Data Loaded successfully
+2020-05-19/22:07:07		Starting preprocessing
+2020-05-19/22:07:07		Exception occured
+2020-05-19/22:07:34		Entering the data input class
+2020-05-19/22:07:34		Data Loaded successfully
+2020-05-19/22:07:34		Starting preprocessing
+2020-05-19/22:07:34		Exception occured
+2020-05-19/22:09:04		Entering the data input class
+2020-05-19/22:09:04		Data Loaded successfully
+2020-05-19/22:09:04		Starting preprocessing
+2020-05-19/22:09:04		Exception occured
+2020-05-19/22:10:45		Entering the data input class
+2020-05-19/22:10:45		Data Loaded successfully
+2020-05-19/22:10:45		Starting preprocessing
+2020-05-19/22:10:45		Exception occured
+2020-05-19/22:10:53		Entering the data input class
+2020-05-19/22:10:53		Data Loaded successfully
+2020-05-19/22:10:53		Starting preprocessing
+2020-05-19/22:10:53		Exception occured
+2020-05-19/22:11:06		Entering the data input class
+2020-05-19/22:11:06		Data Loaded successfully
+2020-05-19/22:11:06		Starting preprocessing
+2020-05-19/22:13:03		Entering the data input class
+2020-05-19/22:13:03		Data Loaded successfully
+2020-05-19/22:13:03		Starting preprocessing
+2020-05-19/23:34:56		Entering the data input class
+2020-05-19/23:34:56		Data Loaded successfully
+2020-05-19/23:34:56		Starting preprocessing
+2020-05-19/23:36:54		Entering the data input class
+2020-05-19/23:36:54		Data Loaded successfully
+2020-05-19/23:36:54		Starting preprocessing
+2020-05-19/23:37:28		Entering the data input class
+2020-05-19/23:37:28		Data Loaded successfully
+2020-05-19/23:37:28		Starting preprocessing
+2020-05-19/23:44:39		Entering the data input class
+2020-05-19/23:44:40		Data Loaded successfully
+2020-05-19/23:44:40		Starting preprocessing
+2020-05-19/23:44:57		Entering the data input class
+2020-05-19/23:44:57		Data Loaded successfully
+2020-05-19/23:44:57		Starting preprocessing
+2020-05-19/23:45:19		Entering the data input class
+2020-05-19/23:45:19		Data Loaded successfully
+2020-05-19/23:45:19		Starting preprocessing
+2020-05-19/23:45:53		Entering the data input class
+2020-05-19/23:45:53		Data Loaded successfully
+2020-05-19/23:45:53		Starting preprocessing
+2020-05-19/23:54:31		Entering the data input class
+2020-05-19/23:54:31		Data Loaded successfully
+2020-05-19/23:54:31		Starting preprocessing
+2020-05-20/00:04:37		Entering the data input class
+2020-05-20/00:04:37		Data Loaded successfully
+2020-05-20/00:06:33		Entering the data input class
+2020-05-20/00:06:33		Data Loaded successfully
+2020-05-20/00:10:02		Entering the data input class
+2020-05-20/00:10:02		Data Loaded successfully
+2020-05-20/00:10:02		Starting preprocessing
+2020-05-20/00:12:36		Entering the data input class
+2020-05-20/00:12:36		Data Loaded successfully
+2020-05-20/00:12:36		Starting preprocessing
+2020-05-20/00:14:15		Entering the data input class
+2020-05-20/00:14:15		Data Loaded successfully
+2020-05-20/00:14:15		Starting preprocessing
+2020-05-20/00:15:40		Entering the data input class
+2020-05-20/00:15:40		Data Loaded successfully
+2020-05-20/00:15:40		Starting preprocessing
+2020-05-20/00:16:54		Entering the data input class
+2020-05-20/00:16:54		Data Loaded successfully
+2020-05-20/00:16:54		Starting preprocessing
+2020-05-22/00:04:17		Entering the data input class
+2020-05-22/00:04:17		Data Loaded successfully
+2020-05-22/00:04:17		Starting Missing values computation
+2020-05-22/00:04:17		Exception occured in mising  values method
+2020-05-22/00:04:17		Exited the code since there is an exception occured in the null values method.
+2020-05-22/00:04:51		Entering the data input class
+2020-05-22/00:04:51		Data Loaded successfully
+2020-05-22/00:04:51		Starting Missing values computation
+2020-05-22/00:04:51		Exception occured in mising  values method
+2020-05-22/00:04:51		Exited the code since there is an exception occured in the null values method.
+2020-05-22/00:05:34		Entering the data input class
+2020-05-22/00:05:34		Data Loaded successfully
+2020-05-22/00:05:34		Starting Missing values computation
+2020-05-22/00:05:34		exported the null values
+2020-05-22/00:05:34		Starting preprocessing
+2020-05-22/00:07:46		Entering the data input class
+2020-05-22/00:07:46		Data Loaded successfully
+2020-05-22/00:07:46		Starting Missing values computation
+2020-05-22/00:07:46		exported the null values
+2020-05-22/00:07:46		Starting preprocessing
+2020-05-22/00:33:10		Entering the data input class
+2020-05-22/00:33:10		Data Loaded successfully
+2020-05-22/00:33:10		Starting Missing values computation
+2020-05-22/00:33:10		exported the null values
+2020-05-22/00:33:10		Starting preprocessing
+2020-05-24/00:03:29		Entering the data input class
+2020-05-24/00:03:29		Data Loaded successfully
+2020-05-24/00:03:29		Starting Missing values computation
+2020-05-24/00:03:29		exported the null values
+2020-05-24/00:03:29		Starting Missing values computation
+2020-05-24/00:03:32		exported the null values
+2020-05-24/00:03:32		Starting preprocessing
+2020-05-24/00:03:32		Exception occured
+2020-05-24/00:03:54		Entering the data input class
+2020-05-24/00:03:54		Data Loaded successfully
+2020-05-24/00:03:54		Starting Missing values computation
+2020-05-24/00:03:54		exported the null values
+2020-05-24/00:03:54		Starting Missing values computation
+2020-05-24/00:03:54		exported the null values
+2020-05-24/00:03:54		Starting preprocessing
+2020-05-24/00:03:54		Exception occured
+2020-05-24/00:05:30		Entering the data input class
+2020-05-24/00:05:30		Data Loaded successfully
+2020-05-24/00:05:30		Starting Missing values computation
+2020-05-24/00:05:30		exported the null values
+2020-05-24/00:05:30		Starting to treat the missing values
+2020-05-24/00:05:30		Ending the imputation successfully
+2020-05-24/00:05:30		Starting preprocessing
+2020-05-24/00:09:29		Entering the data input class
+2020-05-24/00:09:29		Data Loaded successfully
+2020-05-24/00:09:29		Starting Missing values computation
+2020-05-24/00:09:29		exported the null values
+2020-05-24/00:09:29		Starting to treat the missing values
+2020-05-24/00:09:29		Exception during imputation
+2020-05-24/00:09:29		Exited the code because of fault in missing imputer fx.
+2020-05-24/00:09:47		Entering the data input class
+2020-05-24/00:09:47		Data Loaded successfully
+2020-05-24/00:09:47		Starting Missing values computation
+2020-05-24/00:09:47		exported the null values
+2020-05-24/00:09:47		Starting to treat the missing values
+2020-05-24/00:09:47		Ending the imputation successfully
+2020-05-24/00:09:47		Starting preprocessing
+2020-05-24/00:12:49		Entering the data input class
+2020-05-24/00:12:49		Data Loaded successfully
+2020-05-24/00:12:49		Starting Missing values computation
+2020-05-24/00:12:49		exported the null values
+2020-05-24/00:12:49		Starting to treat the missing values
+2020-05-24/00:12:49		Ending the imputation successfully
+2020-05-24/00:12:49		Starting preprocessing
+2020-05-24/00:13:02		Entering the data input class
+2020-05-24/00:13:03		Data Loaded successfully
+2020-05-24/00:13:03		Starting Missing values computation
+2020-05-24/00:13:03		exported the null values
+2020-05-24/00:13:03		Starting to treat the missing values
+2020-05-24/00:13:03		Ending the imputation successfully
+2020-05-24/00:13:03		Starting preprocessing
+2020-05-24/00:17:05		Entering the data input class
+2020-05-24/00:17:06		Data Loaded successfully
+2020-05-24/00:17:06		Starting Missing values computation
+2020-05-24/00:17:06		exported the null values
+2020-05-24/00:17:06		Starting to treat the missing values
+2020-05-24/00:17:06		Ending the imputation successfully
+2020-05-24/00:17:06		Starting preprocessing
+2020-05-24/00:18:47		Entering the data input class
+2020-05-24/00:18:47		Data Loaded successfully
+2020-05-24/00:18:47		Starting Missing values computation
+2020-05-24/00:18:47		exported the null values
+2020-05-24/00:18:47		Starting to treat the missing values
+2020-05-24/00:18:47		Ending the imputation successfully
+2020-05-24/00:18:47		Starting preprocessing
+2020-05-24/00:19:22		Entering the data input class
+2020-05-24/00:19:22		Data Loaded successfully
+2020-05-24/00:19:22		Starting Missing values computation
+2020-05-24/00:19:22		exported the null values
+2020-05-24/00:19:22		Starting to treat the missing values
+2020-05-24/00:19:23		Ending the imputation successfully
+2020-05-24/00:19:23		Starting preprocessing
+2020-05-24/00:20:40		Entering the data input class
+2020-05-24/00:20:40		Data Loaded successfully
+2020-05-24/00:20:40		Starting Missing values computation
+2020-05-24/00:20:40		exported the null values
+2020-05-24/00:20:40		Starting to treat the missing values
+2020-05-24/00:20:40		Ending the imputation successfully
+2020-05-24/00:20:40		Starting preprocessing
+2020-05-24/00:24:42		Entering the data input class
+2020-05-24/00:24:42		Data Loaded successfully
+2020-05-24/00:24:42		Starting Missing values computation
+2020-05-24/00:24:42		exported the null values
+2020-05-24/00:24:42		Starting to treat the missing values
+2020-05-24/00:24:43		Ending the imputation successfully
+2020-05-24/00:24:43		Starting preprocessing
+2020-05-24/12:19:53		Entering the data input class
+2020-05-24/12:19:53		Data Loaded successfully
+2020-05-24/12:19:53		Starting Missing values computation
+2020-05-24/12:19:53		exported the null values
+2020-05-24/12:19:53		Starting to treat the missing values in Inherited classs data_ext
+2020-05-24/12:19:53		Ending the imputation of extended class successfully
+2020-05-24/12:19:53		Exception during imputation of extended 
+2020-05-24/12:19:53		Exited the code because of fault in missing imputer fx.
+2020-05-24/12:20:47		Entering the data input class
+2020-05-24/12:20:47		Data Loaded successfully
+2020-05-24/12:20:47		Starting Missing values computation
+2020-05-24/12:20:47		exported the null values
+2020-05-24/12:20:47		Starting to treat the missing values in Inherited classs data_ext
+2020-05-24/12:20:47		Ending the imputation of extended class successfully
+2020-05-24/12:20:47		Starting preprocessing
+2020-05-24/12:21:30		Entering the data input class
+2020-05-24/12:21:31		Data Loaded successfully
+2020-05-24/12:21:31		Starting Missing values computation
+2020-05-24/12:21:31		exported the null values
+2020-05-24/12:21:31		Starting to treat the missing values in Inherited classs data_ext
+2020-05-24/12:21:31		Ending the imputation of extended class successfully
+2020-05-24/12:21:31		Starting preprocessing
