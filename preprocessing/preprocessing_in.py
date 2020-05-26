@@ -91,7 +91,7 @@ class datainput_ext(datainput):
         self.data = data
         self.logger.log(self.file_object,'Starting to treat the missing values in Inherited classs data_ext')
         try:
-            data.fillna(0,inplace=True)
+            data.fillna(0)
             print(data.isna().sum())
             self.logger.log(self.file_object,'Ending the imputation of extended class successfully')
             return data
